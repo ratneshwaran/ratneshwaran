@@ -37,14 +37,14 @@
 
 ---
 
-### Featured work
+### Work
 - **Eva — Empathetic AI Assistant**  
   NLP chatbot with breathing exercises and helplines.  
   Repo: <a href="https://github.com/ratneshwaran/eva">github.com/ratneshwaran/eva</a> • Live: <a href="https://eva.40seconds.org">eva.40seconds.org</a>
 
 - **G0-FM adaptation — Pan-cancer classifier**  
   Adapting foundation models for cell state across cancer types.  
-  Repo: <a href="https://github.com/secrierlab/G0-FM">secrierlab/G0-FM</a>
+  Link: <a href="https://github.com/secrierlab">secrierlab</a>
 
 - **OPAD device analytics**  
   ML-assisted calibration and analytics for assistive devices.  
@@ -52,7 +52,7 @@
 
 - **40seconds.org**  
   Youth-run nonprofit for mental health and rights.  
-  Site: <a href="https://www.40seconds.org">40seconds.org</a>
+  Site: <a href="https://www.40seconds.org">40seconds.org</a> (Website currently down)
 
 ---
 
@@ -67,15 +67,6 @@
 
 ---
 
-<details>
-<summary>Stats and activity</summary>
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ratneshwaran&hide_title=true&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratneshwaran&layout=compact&hide_border=true&langs_count=8" />
-</p>
-
-</details>
 
 <!-- Footer -->
 <p align="center">
