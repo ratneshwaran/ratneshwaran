@@ -35,8 +35,7 @@
   → [LangCell Repo](https://github.com/ratneshwaran/LangCell_ZeroShot) | [Geneformer Repo](https://github.com/ratneshwaran/Geneformer_Zero_Shot_Baseline)
 
 - **AI College Assistance App**  
-  AI-powered counselling app for students applying abroad (essay feedback, timelines, portfolio builder, chatbot).  
-  → [Repo](https://github.com/YOUR_REPO)
+  AI-powered counselling app for students applying abroad (essay feedback, timelines, portfolio builder, chatbot).
 
 - **OPAD Device Analytics**  
   ML-assisted calibration and analytics for assistive medical devices.  
