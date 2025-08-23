@@ -5,7 +5,7 @@
 <p align="center">
   <a href="mailto:ratneshwaran.maheswaran.21@ucl.ac.uk"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/ratneshwaran-maheswaran/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
-  <a href="https://ratneshwaran.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-lightgrey?style=flat"></a>
+<!--   <a href="https://ratneshwaran.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-lightgrey?style=flat"></a> -->
   <a href="https://github.com/ratneshwaran"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github"></a>
 </p>
 
