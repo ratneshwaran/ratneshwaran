@@ -13,7 +13,7 @@
 
 ### 🚀 What I Do
 - Build **data-driven systems** for genomics and healthcare  
-- Research: **single-cell analysis, cancer dormancy, foundation models (scBERT, scGPT, scFoundation)**  
+- Research: **single-cell analysis, cancer dormancy, foundation models (scBERT, scGPT, Geneformer)**  
 - Develop and release **open-source tools** for AI and bioinformatics  
 
 ---
