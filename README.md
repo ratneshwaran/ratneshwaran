@@ -5,57 +5,54 @@
 <p align="center">
   <a href="mailto:ratneshwaran.maheswaran.21@ucl.ac.uk"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/ratneshwaran-maheswaran/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
-<!--   <a href="https://ratneshwaran.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-lightgrey?style=flat"></a> -->
   <a href="https://github.com/ratneshwaran"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github"></a>
-  <a href="https://ratneshwaran.github.io/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=website"></a>
+  <a href="https://ratneshwaran.github.io/"><img alt="Website" src="https://img.shields.io/badge/Portfolio-Website-lightgrey?style=flat&logo=google-chrome"></a>
 </p>
 
 ---
 
 ### 🚀 What I Do
 - Build **data-driven systems** for genomics and healthcare  
-- Research: **single-cell analysis, cancer dormancy, foundation models (scBERT, scGPT, Geneformer)**  
-- Develop and release **open-source tools** for AI and bioinformatics  
+- Research in **single-cell analysis, cancer dormancy, and foundation models** (scBERT, scGPT, Geneformer, LangCell)  
+- Develop and maintain **open-source tools** for AI and bioinformatics  
 
 ---
 
 ### 🛠️ Tech Stack
 **Languages:** Python, SQL, C/C++, Java, MATLAB  
-**ML & Data:** PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, Scanpy  
+**ML & Data:** PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, Scanpy, LangGraph, LangChain  
 **Web & Tools:** FastAPI, React, TypeScript, Docker, PostgreSQL  
 
 ---
 
 ### 📂 Featured Projects
-- **Eva — Empathetic AI Assistant**  
+- **[Eva — Empathetic AI Assistant](https://github.com/ratneshwaran/eva)**  
   Open-source emotional support chatbot with breathing exercises and helplines.  
-  → [GitHub Repo](https://github.com/ratneshwaran/eva) | [Live App](https://eva.40seconds.org)
+  🔗 [Live App](https://eva.40seconds.org)
 
 - **Zero-Shot Cell Annotation**  
-  Implemented LangCell and Geneformer pipelines for multi-cancer single-cell classification.  
-  → [LangCell Repo](https://github.com/ratneshwaran/LangCell_ZeroShot) | [Geneformer Repo](https://github.com/ratneshwaran/Geneformer_Zero_Shot_Baseline)
+  Built LangCell and Geneformer pipelines for multi-cancer single-cell classification.  
+  🔗 [LangCell Repo](https://github.com/ratneshwaran/LangCell_ZeroShot) | [Geneformer Repo](https://github.com/ratneshwaran/Geneformer_Zero_Shot_Baseline)
 
 - **AI College Assistance App**  
-  AI-powered counselling app for students applying abroad (essay feedback, timelines, portfolio builder, chatbot).
+  AI-powered counselling platform for students applying abroad (essay feedback, timelines, portfolio builder, chatbot).
 
-- **OPAD Device Analytics**  
+- **[OPAD Device Analytics](https://github.com/OPAD-lab)**  
   ML-assisted calibration and analytics for assistive medical devices.  
-  → [Org](https://github.com/OPAD-lab)
 
-- **40seconds.org**  
-  Youth-run nonprofit for mental health and rights.  
-  → [Website](https://www.40seconds.org)  (Website Down at the Moment)
+- **[40seconds.org](https://www.40seconds.org)**  
+  Youth-run nonprofit for mental health and rights. *(Website currently down)*  
 
 ---
 
 ### ✍️ Latest Writing
-- Coming soon: *Robust training for domain-specific NLP*  
+- *Coming soon:* **Robust training for domain-specific NLP**  
 
 ---
 
 ### 📫 How to Reach Me
-- Email: ratneshwaran.maheswaran.21@ucl.ac.uk  
-- LinkedIn: [/in/ratneshwaran-maheswaran/](https://www.linkedin.com/in/ratneshwaran-maheswaran/)  
+📧 Email: [ratneshwaran.maheswaran.21@ucl.ac.uk](mailto:ratneshwaran.maheswaran.21@ucl.ac.uk)  
+💼 LinkedIn: [ratneshwaran-maheswaran](https://www.linkedin.com/in/ratneshwaran-maheswaran/)  
 
 ---
 
