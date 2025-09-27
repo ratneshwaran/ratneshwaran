@@ -7,6 +7,7 @@
   <a href="https://www.linkedin.com/in/ratneshwaran-maheswaran/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
 <!--   <a href="https://ratneshwaran.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-lightgrey?style=flat"></a> -->
   <a href="https://github.com/ratneshwaran"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github"></a>
+  <a href="https://ratneshwaran.github.io/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=website"></a>
 </p>
 
 ---
