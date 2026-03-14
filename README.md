@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Ratnesh (Ratneshwaran Maheswaran) 👋</h1>
-<p align="center"><em>MSc AI for Biomedicine & Healthcare @ UCL (Distinction) | AI Agents | LLM Systems | Applied ML</em></p>
+<p align="center"><em>MSc AI for Biomedicine & Healthcare @ UCL | AI Agents | LLM Systems | Applied ML</em></p>
 
 <p align="center">
   <a href="mailto:ratneshwaran.maheswaran.21@ucl.ac.uk"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail"></a>
