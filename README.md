@@ -1,5 +1,5 @@
-<h1 align="center">Ratneshwaran (Ratnesh) Maheswaran</h1>
-<p align="center"><em>AI Researcher · Reliable & Safe LLM Systems · Evaluation · Agentic AI · AI for Science & Healthcare</em></p>
+<h1 align="center">Welcome to my GitHub</h1>
+<p align="center"><em>I'm Ratnesh — an AI researcher at UCL working on reliable, evaluation-led LLM systems and reproducible ML pipelines for high-stakes and scientific settings.</em></p>
 
 <p align="center">
   <a href="mailto:ratneshwaran.maheswaran.21@ucl.ac.uk"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail"></a>
@@ -9,7 +9,7 @@
 
 ---
 
-AI researcher working on **reliable, evaluation-led LLM systems** and **reproducible ML pipelines** for high-stakes and scientific settings.
+Thanks for stopping by. Most of what I publish here is research software — agentic LLM systems, evaluation harnesses, and pipelines for scientific and biomedical data. Have a look around.
 
 ### Now
 - **Research Assistant**, UCL Centre for AI — agentic LLM systems with Freedom from Torture (Oct 2025 – Present)
